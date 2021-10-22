@@ -39,4 +39,4 @@
 <img src="https://user-images.githubusercontent.com/71402927/138532430-0a225911-f172-43ee-a86f-7d93f9356948.png" alt="ArduinoFade" style="width:500px;">
 
 ### Reflection
-I enjoyed the project and it definitely helped me touch up on my onshape skill. None of it was to complex although I did have some trouble with the trunk and making sure I was sketching on the correct plane. The assembly was fun and adding in all the bolts and nuts to hold everthing in place. 
+>I enjoyed the project and it definitely helped me touch up on my onshape skill. None of it was to complex although I did have some trouble with the trunk and making sure I was sketching on the correct plane. The assembly was fun and adding in all the bolts and nuts to hold everthing in place. 
