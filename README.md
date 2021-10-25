@@ -8,20 +8,11 @@
 ### Evidence
 [FinalAssembly](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/55985fd0bd2d10533419ffac)
 
-[Deck](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/c423153f83cefcac8b4963e3)
-
-[Trunks](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/c423153f83cefcac8b4963e3)
-
-[Hanger](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/c423153f83cefcac8b4963e3)
-
-[Brushings](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/c423153f83cefcac8b4963e3)
-
-[Wheels](https://cvilleschools.onshape.com/documents/521d65e402df554bfe42f3ed/w/0c5c3db15ff587876eacd787/e/56d64ad454773eb65ede35ce)
-
-### Images
+### Parts
 
 #### Deck
 <img src="https://user-images.githubusercontent.com/71402927/138531417-f8b4969d-a458-4996-8734-257fb2203e53.png" alt="ArduinoFade" style="width:500px;">
+
 
 #### Trunk
 <img src="https://user-images.githubusercontent.com/71402927/138531383-25809d45-12e5-4fbd-be62-4a1940b2729c.png" alt="ArduinoFade" style="width:500px;">
@@ -38,5 +29,3 @@
 #### Final Assembly
 <img src="https://user-images.githubusercontent.com/71402927/138532430-0a225911-f172-43ee-a86f-7d93f9356948.png" alt="ArduinoFade" style="width:500px;">
 
-### Reflection
->I enjoyed the project and it definitely helped me touch up on my onshape skill. None of it was to complex although I did have some trouble with the trunk and making sure I was sketching on the correct plane. The assembly was fun and adding in all the bolts and nuts to hold everthing in place. 
