@@ -15,7 +15,7 @@
 
 
 #### Trunks
-<img src="(https://user-images.githubusercontent.com/71402927/138754366-d74710f6-6e83-4100-ae06-dbe83f9f97b8.png)" alt="ArduinoFade" style="width:500px;">
+<img src="https://user-images.githubusercontent.com/71402927/138754366-d74710f6-6e83-4100-ae06-dbe83f9f97b8.png" alt="ArduinoFade" style="width:500px;">
 
 
 #### Wheels and Bearings
